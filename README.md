@@ -15,7 +15,7 @@
 - Give employers the ability to post new job requirements.
 - Match job seekers with new jobs that fit their requirements.
 
-_Including algorithms to show desirable candidates to employers_
-_Including a broader set of details_
-_Q&A section_
-_Certification tests_
+_Including algorithms to show desirable candidates to employers_  
+_Including a broader set of details_  
+_Q&A section_  
+_Certification tests_  
